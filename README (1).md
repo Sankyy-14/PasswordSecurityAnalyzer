@@ -1,7 +1,7 @@
 
 # 🔐 Password Security Assessment & Resilience Analyzer
 
-## 📌 Overview
+## Overview
 The **Password Security Assessment & Resilience Analyzer** is an ideathon project focused on addressing one of the most common yet critical cybersecurity vulnerabilities: **weak, human-generated passwords**.  
 This project combines **security analysis and user education** to promote strong password hygiene and resilient digital behavior.
 
@@ -10,7 +10,7 @@ The solution aligns with the theme:
 
 ---
 
-## ❗ Problem Statement
+## Problem Statement
 Despite increasing cyber threats, many users continue to create weak passwords without understanding the associated risks.
 
 ### Key Issues Identified
@@ -26,7 +26,7 @@ These issues often lead to:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 The primary objectives of this project are to:
 
 - Educate users on what makes a password secure  
@@ -36,7 +36,7 @@ The primary objectives of this project are to:
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 We propose a **web-based Password Security Assessment & Resilience Analyzer** that:
 
 1. Allows users to input a password securely  
@@ -51,13 +51,13 @@ The solution acts as a **preventive cybersecurity tool**, focusing on awareness 
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
-### 🔑 Password Input Interface
+### Password Input Interface
 - Secure, masked input field  
 - Real-time strength evaluation  
 
-### 📊 Strength Evaluation Logic
+### Strength Evaluation Logic
 Passwords are evaluated based on:
 - Length  
 - Use of uppercase and lowercase characters  
@@ -65,7 +65,7 @@ Passwords are evaluated based on:
 - Repeated patterns or sequences  
 - Common and dictionary-based password checks  
 
-### 📝 Feedback & Suggestions
+### Feedback & Suggestions
 Users receive clear recommendations such as:
 - Increase password length  
 - Add special characters  
@@ -74,26 +74,23 @@ Users receive clear recommendations such as:
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 ### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React.js *(optional, time-permitting)*  
+- HTML 
 
 ### Backend *(Optional / Extended Version)*
-- Node.js or Python (Flask)  
+- JAVA and JAVA SPRING
 - Secure API for password evaluation logic  
 
 ### Libraries & Tools
 - **zxcvbn** – password strength estimator  
 - Regular Expressions (Regex) for validation  
-- Git & GitHub for version control  
+- springboot.io
 
 ---
 
-## 🔐 Security & Cybersecurity Impact
+## Security & Cybersecurity Impact
 
 ### Concepts Introduced
 - Password entropy  
@@ -109,7 +106,7 @@ Users receive clear recommendations such as:
 
 ---
 
-## 🌱 Sustainability & Social Impact
+## Sustainability & Social Impact
 - Promotes long-term secure digital practices  
 - Reduces likelihood of large-scale data breaches  
 - Empowers non-technical users with cybersecurity knowledge  
@@ -117,7 +114,7 @@ Users receive clear recommendations such as:
 
 ---
 
-## 🚀 Innovation Aspect
+## Innovation Aspect
 What makes this project innovative:
 
 - Combines **education + real-time security analysis**  
@@ -132,14 +129,14 @@ What makes this project innovative:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 The **Password Security Assessment & Resilience Analyzer** addresses a fundamental cybersecurity challenge by focusing on the human element of security.
 
 By educating users, preventing weak password practices, and encouraging secure digital habits, this solution contributes to building a **more resilient and sustainable digital future**.
 
 ---
 
-## 👥 Project Context
+## Project Context
 - Ideathon / Hackathon Project  
 - Focused on cybersecurity awareness and prevention  
 - Designed for beginners and non-technical users  
@@ -147,9 +144,7 @@ By educating users, preventing weak password practices, and encouraging secure d
 
 ---
 
-## 📄 License
+## License
 This project is developed for educational and ideathon purposes.
 
 ---
-
-⭐ *If you find this project useful or insightful, consider starring the repository!*  
